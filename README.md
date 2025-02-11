@@ -1,3 +1,5 @@
+Cartpole using Q-learning 
+
 # This project rests on the idea of practicing Reinforcement Learning with q-learning techniques. 
 
 	This project implements Q-Learning, a Reinforcement Learning (RL) algorithm, to solve the **CartPole problem**. The goal is to train an agent to balance a pole on a cart by learning from interactions with the environment.
