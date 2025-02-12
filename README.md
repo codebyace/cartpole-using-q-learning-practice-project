@@ -1,6 +1,6 @@
 Cartpole using Q-learning 
 
-# This project rests on the idea of practicing Reinforcement Learning with q-learning techniques. 
+	This project rests on the idea of practicing Reinforcement Learning with q-learning techniques. 
 
 Description: 
 
